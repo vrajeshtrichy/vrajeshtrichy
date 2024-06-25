@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi I'm Rajesh! 👋
 
-<!--
-**vrajeshtrichy/vrajeshtrichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 Full-stack Data Scientist
+- 🔥 Working on the frontier of research & business
+- 🎓 [MSc AI & ML from the University of Birmingham](https://www.birmingham.ac.uk/) & [certified NLP expertise](https://coursera.org/share/8f7e3de231d29b3faa200c81861fb881)
+- 🏅 Enjoy challenging myself in self-learning and development through online courses, hackathons, and personal projects, often publishing my work on platforms like Hugging Face and GitHub.
 
-Here are some ideas to get you started:
+[Check out my website](https://vrajeshtrichy.github.io/website) with my Portfolio, Data Science, ML & AI Projects and more of my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://www.linkedin.com/in/vrajeshtrichy/) 
+[![GitHub](https://github.com/vrajeshtrichy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vrajesh&show_icons=true&count_private=true&theme=algolia&hide_rank=true&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues,contribs&hide_title=false&line_height=24&card_width=285)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajeshtrichy&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
+
